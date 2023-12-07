@@ -1,0 +1,38 @@
+func main() -> void{
+    // vars  
+    let x;
+    let mut x:i32 = 1;
+    let a = &x 
+    // print statments
+    println("");
+    print("");
+    // if/else statments
+    if (name == "idk"){
+        return 0;
+    }else{
+        return 1;
+    }
+    // loops
+        while (x < 10, x++){
+            println(x);
+        }
+    // null
+        let x = !null
+    // pointers
+    let z:p32 = &x
+    // strings
+    let a:string = "hello world";
+    // console commands
+    sys()
+    // imports
+    use 'importfile.tin'
+    //importfile.tin
+    func idk () -> void{
+        print("hi");
+    }
+    //main.tin
+        use 'importfile.tin'
+        func main()-> void{
+            importfile::idk();
+        }
+}
